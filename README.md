@@ -6,3 +6,6 @@ This program works by reading the contents of the currently selected profile (**
 **Donation Link**
 If you're feeling generous send me a quick donation 💓
 [https://buymeacoffee.com/jasondouma](url)
+
+**DOWNLOAD LINK**
+[https://sourceforge.net/projects/afktool/](url)

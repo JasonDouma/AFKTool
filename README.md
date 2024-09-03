@@ -5,7 +5,7 @@ This program works by reading the contents of the currently selected profile (**
 
 **Donation Link**
 If you're feeling generous send me a quick donation 💓
-[https://buymeacoffee.com/jasondouma](url)
+[Donation Link](https://github.com/JasonDouma/AFKTool)
 
 **DOWNLOAD LINK**
-[https://sourceforge.net/projects/afktool/](url)
+[Download Link](https://sourceforge.net/projects/afktool/)
